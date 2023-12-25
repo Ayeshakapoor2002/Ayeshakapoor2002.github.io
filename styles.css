@@ -66,7 +66,7 @@ body {
     white-space: nowrap;
     margin: 0 auto;
     display: inline-block;
-    animation: blinkTextCursor 1000ms steps(50) infinite normal, fadeIn 2s ease-out forwards;
+    animation: blinkTextCursorLight 1000ms steps(50) infinite normal, fadeIn 2s ease-out forwards;
     text-align: center;
     margin-bottom: 10px;
 }
@@ -135,7 +135,7 @@ h2 {
 }
 
 .text-section h2 {
-    margin-bottom: 10px; /* Reduce the bottom margin of the 'About Me' heading */
+    margin-bottom: 20px; /* Reduce the bottom margin of the 'About Me' heading */
 }
 
 
@@ -208,8 +208,8 @@ li {
     }
 
     #profile-pic {
-        width: 150px; /* Smaller image size */
-        height: 150px;
+        width: 250px; /* Smaller image size */
+/*        height: 150px;*/
     }
 
     .text-section {
