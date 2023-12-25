@@ -224,6 +224,7 @@ li {
     #typewriter {
         /* Adjust the keyframes to have a black cursor */
         animation: blinkTextCursorLight 1000ms steps(50) infinite normal;
+        font-size:1.8em;
     }
 
 }
