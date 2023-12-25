@@ -1,4 +1,4 @@
-const phrases = ["an Art Enthusiast.", "a Visionary.", "a Matcha Reviewer."];
+const phrases = ["an Art Enthusiast.", "a Visionary.", "a Matcha Connoiseur."];
 let currentPhraseIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
