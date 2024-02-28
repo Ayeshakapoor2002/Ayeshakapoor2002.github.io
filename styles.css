@@ -245,4 +245,12 @@ li {
     background-color: #ff8ec7; /* A lighter pink for hover effect */
 }
 
+#artwork-gallery h1 {
+    text-align: center;
+    background: linear-gradient(to right, #600000, #ff00fb, #ff6200 , #ff00fb, #600000);
+    -webkit-background-clip: text;
+    color: transparent;
+   font-size: 60px
+   margin: 0px
+}
 
